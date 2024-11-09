@@ -1,7 +1,7 @@
 # This website will help you to find Weather Reports of a State.
 This shows accurate results from OpenWeather API used in this.
 # IF you use this add your api key in script.js file
-# GO and checkout website link --> 
+# GO and checkout website link --> https://weatherforec.netlify.app/
 
 
 Images of the website is shown below.
